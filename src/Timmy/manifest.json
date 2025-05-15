@@ -1,0 +1,14 @@
+{
+  "name": "MyDemoPlugin",
+  "description": "A simple demo plugin for Bunny. Shows a toast on load and has a setting.",
+  "authors": [
+    {
+      "name": "mizulike",
+      "id": "YOUR_DISCORD_ID_HERE"
+    }
+  ],
+  "main": "index.ts",
+  "vendetta": {
+    "icon": "ic_extension"
+  }
+}
